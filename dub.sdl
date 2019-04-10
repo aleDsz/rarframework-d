@@ -1,0 +1,15 @@
+name "rarframework-d"
+description "ORM Framework in D"
+homepage "https://aledsz.com.br/"
+
+license "MIT"
+copyright "Copyright © 2019 aleDsz"
+authors "Alexandre 'aleDsz' de Souza"
+
+targetType "library"
+targetName "rarframework-d"
+
+sourcePaths "."
+importPaths "."
+
+mainSourceFile "rarframework/main.d"
